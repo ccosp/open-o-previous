@@ -738,11 +738,11 @@
   }, {
     "groupId" : "commons-fileupload",
     "artifactId" : "commons-fileupload",
-    "version" : "1.4",
+    "version" : "1.5",
     "scope" : "compile",
     "type" : "jar",
     "optional" : false,
-    "integrity" : "sha512:qHgLfderaPnh3zjnelIHxF/1DsU9ixR2Vw0GntyPWeUvsdD8U01+UTrFoBs4W6c8MgeUyCNppyvW2Bejs7IfOQ=="
+    "integrity" : "sha512:q5F3iyYB6gsABiSPQ2q1eojfMQKzVFtF7sZ1+trz0kBZDQhVnLeBOfAa5jCHr9yz3SOvBgqO0nRG6aJfezCDGA=="
   }, {
     "groupId" : "commons-httpclient",
     "artifactId" : "commons-httpclient",
@@ -1947,27 +1947,27 @@
   }, {
     "groupId" : "org.apache.logging.log4j",
     "artifactId" : "log4j-1.2-api",
-    "version" : "2.17.0",
+    "version" : "2.24.1",
     "scope" : "compile",
     "type" : "jar",
     "optional" : false,
-    "integrity" : "sha512:/X0T9pWAGNmpfikJpiBjgTppOR8de20zYXVZ/DCAGSO1o8lRorcZMlbXif4WVqP0XYGc9cIAEnw0RR7ZuO79Iw=="
+    "integrity" : "sha512:ciBTfOJusjZ389YrSZibsymDcDnmdJgW6pwuJ25PHsW6SM8UqtAdXmADhMjfhCcnDIFw9HfKtZltQa3TsT9G1g=="
   }, {
     "groupId" : "org.apache.logging.log4j",
     "artifactId" : "log4j-api",
-    "version" : "2.17.0",
+    "version" : "2.24.1",
     "scope" : "compile",
     "type" : "jar",
     "optional" : false,
-    "integrity" : "sha512:Y5F4hRDQFa4tlFJ7lCz0mpUY6GKJMuCgih2KRil0mfnNioH33ZlAn2m+sG6ET5/DO2xcQDeGICyz+s6eGCpUlg=="
+    "integrity" : "sha512:1Xm9meYYf0xnUQkINRlVsmPnuJTn0TvAmnO7TD32ISfhvuYGG+TP+Uple5nC03llJSW6oULr6SjpDJpuIm0mOA=="
   }, {
     "groupId" : "org.apache.logging.log4j",
     "artifactId" : "log4j-core",
-    "version" : "2.17.0",
+    "version" : "2.24.1",
     "scope" : "compile",
     "type" : "jar",
     "optional" : false,
-    "integrity" : "sha512:4o+g8cusDZJQVbTInePB9yk6ABV0uEebeukS3/BR7TVHeEdQnXBYajt2N/D1KfcBI1dmq9/HVfJhoqr23CpwuA=="
+    "integrity" : "sha512:q6dkIvjPJlkpjOZ9SxkiYNcmC7HkXWZSn+sGa1wmDR6OMAEaYemO5F6E5C4K/WCmE1KhaAfc+M8qIt44uyKMnA=="
   }, {
     "groupId" : "org.apache.mina",
     "artifactId" : "mina-core",
@@ -2035,11 +2035,11 @@
   }, {
     "groupId" : "org.apache.tika",
     "artifactId" : "tika-core",
-    "version" : "1.5",
+    "version" : "1.28.5",
     "scope" : "compile",
     "type" : "jar",
     "optional" : false,
-    "integrity" : "sha512:XT3IOZHTNVXQk7MkDBZxjuvd4sCQfJxCKxeb3REsAL7oxOWteHfpFdUnkuvtFnw48SsObZFRrSCkX7LXb+dr4A=="
+    "integrity" : "sha512:XOr3rZ5itO/1EsAFQcd/gH13oHN6EdUlAdCyUCS4xXjnt+ivekad5vblSr8c4Co10zVozzXUhSwALBBXYve7nQ=="
   }, {
     "groupId" : "org.apache.velocity",
     "artifactId" : "velocity-engine-core",
@@ -2539,11 +2539,11 @@
   }, {
     "groupId" : "org.jasypt",
     "artifactId" : "jasypt",
-    "version" : "1.8",
+    "version" : "1.9.3",
     "scope" : "compile",
     "type" : "jar",
     "optional" : false,
-    "integrity" : "sha512:Gus1+wJ675q5qyx58IMCHia276BTtQqMYF1QZa9wab3E5LHPBtCAzB7qwa1idDXftPCetWJbjONrpfdSXsLvNw=="
+    "integrity" : "sha512:mTadpE5MJvZOYA+ZsTXrBRZ64eu1u58iIz8UAj9UFjGLtMpYk9uw59REOV6m+lNxNVmmmQEgtPyWKh6ShLpYIQ=="
   }, {
     "groupId" : "org.javassist",
     "artifactId" : "javassist",
