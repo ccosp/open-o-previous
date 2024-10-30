@@ -24,7 +24,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <log4j2.version>2.17.0</log4j2.version>
+        <log4j2.version>2.24.1</log4j2.version>
         <slf4j.version>1.7.32</slf4j.version>
         <hapifhir.version>5.4.0</hapifhir.version>
         <struts.version>1.3.11</struts.version>
@@ -1671,7 +1671,7 @@
             <plugin>
                 <groupId>org.eclipse.jetty</groupId>
                 <artifactId>jetty-maven-plugin</artifactId>
-                <version>11.0.20</version>
+                <version>11.0.24</version>
             </plugin>
             <!--
             Comming soon. After spring and java upgrades
@@ -1761,6 +1761,9 @@
                     </execution>
                 </executions>
             </plugin>
+
+			
+
         </plugins>
 
         <!--     Maybe one day when the header licences are used again.
